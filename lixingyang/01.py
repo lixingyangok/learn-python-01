@@ -1,6 +1,6 @@
 import pygame
-print(123)
+print("123-------------")
 print(pygame)
-print(1234)
+print("123-------------")
 
 
