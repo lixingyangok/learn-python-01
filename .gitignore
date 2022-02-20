@@ -7,3 +7,7 @@ dist_electron
 venv
 .idea
 *.idea
+.idea/
+.idea/*
+/.idea/
+
