@@ -6,9 +6,11 @@
 ● 将某个模块中的全部函数导入，格式为： from somemodule import *
 """
 
+import keyword
 import sys # 导入整个包
 from sys import path  # 导入特定的成员
 
+print('\n打印 keyword ■:', keyword.kwlist)
 
 for cur in sys.argv:
     print('\n打印sys.argv ■:', sys.argv)

@@ -20,9 +20,9 @@ print('人生苦短，我用 python\nLife is short, you need Python', file=theFi
 theFile.close()
 
 #字符串大小写转换
-str.title(I LOVE PYTHON)
-str. capitalize(I LOVE PYTHON)
-str. swapcase(I LOVE PYTHON)
+str.title('I LOVE PYTHON')
+str.capitalize('I LOVE PYTHON')
+str.swapcase('I LOVE PYTHON')
 
 str = "love python"
 str.count('o')
