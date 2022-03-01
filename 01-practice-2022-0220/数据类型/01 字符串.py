@@ -2,11 +2,11 @@
 Author: 李星阳
 Date: 2022-02-20 19:42:44
 LastEditors: 李星阳
-LastEditTime: 2022-02-26 16:10:59
+LastEditTime: 2022-03-01 20:22:32
 Description: 
 '''
 
-str01 = 'let\'s go' # 用 \ 转义
+str01 = 'let\'s go' # 转义符号 \
 
 print('str01：', str01)
 
