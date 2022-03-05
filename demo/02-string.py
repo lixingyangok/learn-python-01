@@ -1,3 +1,5 @@
+# 已经转移 2022.03.05 20:51:12 星期六
+
 string01 = '零一二三四五六七八九'
 string02 = string01[:]
 string03 = 'Hello world'

@@ -1,3 +1,5 @@
+# 已经转移 2022.03.05 21:26:49 星期六
+
 is_hot = True
 is_cold = False
 msg = ''

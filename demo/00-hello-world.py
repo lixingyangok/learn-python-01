@@ -1,4 +1,5 @@
-from datetime import datetime
+# 已经转移 2022.03.05 20:51:12 星期六
+from datetime import datetime 
 
 string01 = 'hello world, I\'m Li.\n' * 2 # 可以用乘法
 string02 = '''
